@@ -1,0 +1,5 @@
+s1 = input('Write "I" ')
+s2 = input('Write "love" ')
+s3 = input('Write "you" ')
+s4 = " %s %s %s " % (s1, s2, s3)
+print(s4, 'too')
